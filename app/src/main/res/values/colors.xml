@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="background">#F3F3F3</color>
+
+    <color name="optionsMenuItems">#222222</color>
+
+    <color name="userCardBorder">#00D9DADC</color>
+    <color name="userCardBackground">#FFFFFF</color>
+    <color name="userCardText">#242629</color>
+
+    <color name="detailActivityName">#222222</color>
+    <color name="detailActivityBio">#4E4E4E</color>
+    <color name="detailActivityStatsBackground">#FFFFFF</color>
+    <color name="detailActivityStatsNumber">#222222</color>
+    <color name="detailActivityStatsLabel">#8b949e</color>
+
+    <color name="tabLayoutBg">#FFFFFF</color>
+    <color name="tabLayoutTextColor">#4E4E4E</color>
+    <color name="tabLayoutTabSelectedTextColor">#FFFFFF</color>
+    <color name="tabLayoutSelectedColor">#000000</color>
+    <color name="tabLayoutUnselectedColor">#FFFFFF</color>
+</resources>

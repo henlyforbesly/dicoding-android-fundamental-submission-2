@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GitHub Users</string>
+    <string name="item_row_user_avatar_content_description">A github user avatar</string>
+    <string name="detailActivity_display_picture_content_description">User display picture</string>
+    <string name="searchView_query_hint">Search…</string>
+    <string name="followers_tab_text">Followers</string>
+    <string name="following_tab_text">Following</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="fab">FAB</string>
+    <string name="followers">Followers</string>
+    <string name="repositories">Repositories</string>
+    <string name="followings">Followings</string>
+    <string name="tidak_ada_hasil">Tidak ada hasil</string>
+    <string name="terjadi_kesalahan_dalam_mengambil_data">Terjadi kesalahan dalam mengambil data.</string>
+    <string name="search">Search</string>
+    <string name="favorite">Favorite</string>
+    <string name="settings">Settings</string>
+</resources>
